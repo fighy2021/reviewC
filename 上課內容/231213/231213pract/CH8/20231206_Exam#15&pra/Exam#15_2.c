@@ -6,7 +6,7 @@ int q;
 int main(void){
 	for(int i = 1; i <= 30; i++){
 		q = 0;
-		printf(" n=%d, for°j°é%d¦¸,»¼°j%d¦¸\n", i, i, fib(i));
+		printf(" n=%d, forÂ°jÂ°Ã©%dÂ¦Â¸,Â»Â¼Â°j%dÂ¦Â¸\n", i, i, fib(i));
 	}
 	
 	system("pause");
