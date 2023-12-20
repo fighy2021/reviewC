@@ -5,7 +5,7 @@ void reverse(char str[]);
 int main(void){
 	char str1[5];
 	
-	printf("�п�J�r�ꤺ�e: ");
+	printf("½Ð¿é¤J¦r¦ê¤º®e: ");
 	gets(str1);
 	reverse(str1);
 	puts(str1);
