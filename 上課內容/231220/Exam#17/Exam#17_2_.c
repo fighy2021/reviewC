@@ -6,7 +6,7 @@ int count(char str[]);
 int main(void){
 	char str1[SIZE];
 	
-	printf("�п�J�r�ꤺ�e: ");
+	printf("½Ð¿é¤J¦r¦ê¤º®e: ");
 	gets(str1);	
 	printf("  a, e, i, o, u %d times", count(str1));
  
